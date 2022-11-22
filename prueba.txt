@@ -1,1 +1,19 @@
-Tarea de git
+CLASES:
+Las clases nos permiten agrupar un conjunto
+de variables y funciones.
+Las clases tienen caracteristicas"ATRIBUTOS" (marca, modelo, año, color)
+Tambien tiene "METODOS" (acelerar, fenar, encender luces)
+
+EL SELF que se pasa como parámetro es una
+variable que representa la instancia de la
+clase.
+
+El método __init__ se conoce como constructor y lleva el doble __ porque está reservado para un uso
+especial del lenguaje. Finalmente para acceder a un atributo podemos imprimirlo para saber su valor.
+
+LA HERENCIA es un proceso mediante el cual
+se puede crear una clase hija que hereda de
+una clase padre, compartiendo sus métodos
+y atributos. 
+
+
